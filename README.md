@@ -1,0 +1,2 @@
+# daftarkaryaku
+daftarkaryaku
