@@ -28,6 +28,13 @@ https://github.com/hajirodeon/wappswandroid
 https://github.com/hajirodeon/biasawae-quran
 
 
+
+
+
+
+
+
+
 Kontak : 
 http://omahbiasawae.net
 
