@@ -29,9 +29,11 @@ https://github.com/hajirodeon/biasawae-quran
 
 https://github.com/hajirodeon/cms-toko-biasawae
 
-https://github.com/hajirodeon/cms-biasawae-social-
+https://github.com/hajirodeon/cms-biasawae-social-media
 
 https://github.com/hajirodeon/latihanjquery
+
+https://github.com/hajirodeon/idt-free-kelas
 
 
 
