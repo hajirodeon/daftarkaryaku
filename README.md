@@ -35,6 +35,12 @@ https://github.com/hajirodeon/latihanjquery
 
 https://github.com/hajirodeon/idt-free-kelas
 
+https://github.com/hajirodeon/wappsandroid-sosmedku
+
+https://github.com/hajirodeon/wappsandroid-sosmedku-php
+
+
+
 
 
 
