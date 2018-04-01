@@ -7,6 +7,14 @@ https://github.com/hajirodeon/sisfokol-ppdb
 
 https://github.com/hajirodeon/sisfokol-ujian
 
+https://github.com/hajirodeon/SISFOKOL-SD
+
+https://github.com/hajirodeon/SISFOKOL-SMP
+
+https://github.com/hajirodeon/SISFOKOL-SMA
+
+https://github.com/hajirodeon/SISFOKOL-SMK
+
 https://github.com/hajirodeon/sisfotoko
 
 https://github.com/hajirodeon/freekelasphonegapcordova
