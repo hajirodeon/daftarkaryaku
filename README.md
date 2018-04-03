@@ -57,12 +57,6 @@ https://github.com/hajirodeon/wappsandroid-sosmedku-php
 
 Kontak : 
 
-http://omahbiasawae.net
-
-http://simudah.com
-
-http://hajirodeon.wordpress.com
-
 http://facebook.com/hajirodeon
 
 http://twitter.com/hajirodeon
@@ -71,5 +65,10 @@ http://instagram.com/hajirodeon
 
 http://github.com/hajirodeon
 
+http://hajirodeon.wordpress.com
 
-Bila mengalami kesulitan atau ingin mengambil layanan kastumisasi atau ingin memberikan donasi pengembangan karya - karya yang ada, silahkan bisa kontak ke : hajirodeon@gmail.com atau WA/Telegram : 081-829-88-54.
+http://simudah.com
+
+
+
+Bila mengalami kesulitan atau ingin mengambil layanan kastumisasi atau ingin memberikan donasi pengembangan karya - karya yang ada, silahkan bisa kontak ke : hajirodeon@gmail.com atau SMS/WA/Telegram : 081-829-88-54.
