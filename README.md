@@ -1,6 +1,8 @@
 # daftarkaryaku
 daftarkaryaku
 
+https://github.com/hajirodeon/cordova-pluginku
+
 https://github.com/hajirodeon/latihanjquery
 
 https://github.com/hajirodeon/sisfokol-ppdb
