@@ -1,24 +1,18 @@
 # daftarkaryaku
 daftarkaryaku
 
-belajar pemrograman android dengan phonegap cordova :
 
-https://github.com/hajirodeon/cordova-pluginku
 
-https://github.com/hajirodeon/wappsandroid-geolocation
+ARSIP KELAS BELAJAR TELEGRAM :
 
-https://github.com/hajirodeon/wappsandroid-database
+https://github.com/hajirodeon/freekelasphonegapcordova
 
-https://github.com/hajirodeon/wappswandroid
+https://github.com/hajirodeon/freekelasgithub
 
-https://github.com/hajirodeon/wappsandroid-sosmedku
+https://github.com/hajirodeon/idt-free-kelas
 
-https://github.com/hajirodeon/wappsandroid-sosmedku-php
-
-https://github.com/hajirodeon/latihanjquery
 
 ---
-
 
 
 SISFOKOL : 
@@ -39,6 +33,27 @@ https://github.com/hajirodeon/sisfokol-janissary
 
 https://github.com/hajirodeon/ebook-sisfokol
 
+https://github.com/hajirodeon/sisfokol-kampus
+
+---
+
+
+belajar pemrograman android dengan phonegap cordova :
+
+https://github.com/hajirodeon/cordova-pluginku
+
+https://github.com/hajirodeon/wappsandroid-geolocation
+
+https://github.com/hajirodeon/wappsandroid-database
+
+https://github.com/hajirodeon/wappswandroid
+
+https://github.com/hajirodeon/wappsandroid-sosmedku
+
+https://github.com/hajirodeon/wappsandroid-sosmedku-php
+
+https://github.com/hajirodeon/latihanjquery
+
 ---
 
 
@@ -49,16 +64,6 @@ https://github.com/hajirodeon/sisfotoko
 ---
 
 
-ARSIP KELAS BELAJAR TELEGRAM :
-
-https://github.com/hajirodeon/freekelasphonegapcordova
-
-https://github.com/hajirodeon/freekelasgithub
-
-https://github.com/hajirodeon/idt-free-kelas
-
-
----
 
 
 UNTUK CEK RESI JNE/POS/TIKI :
