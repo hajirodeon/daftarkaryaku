@@ -5,6 +5,7 @@ beragam plugin phonegap cordova :
 
 https://github.com/hajirodeon/cordova-pluginku
 
+---
 
 
 belajar jquery : 
