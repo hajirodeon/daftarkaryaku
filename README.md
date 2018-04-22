@@ -1,9 +1,19 @@
 # daftarkaryaku
 daftarkaryaku
 
+beragam plugin phonegap cordova :
+
 https://github.com/hajirodeon/cordova-pluginku
 
+
+
+belajar jquery : 
+
 https://github.com/hajirodeon/latihanjquery
+
+
+
+SISFOKOL : 
 
 https://github.com/hajirodeon/sisfokol-ppdb
 
@@ -17,9 +27,22 @@ https://github.com/hajirodeon/SISFOKOL-SMA
 
 https://github.com/hajirodeon/SISFOKOL-SMK
 
+https://github.com/hajirodeon/sisfokol-janissary
+
+
+
+SISFO-TOKO : 
+
 https://github.com/hajirodeon/sisfotoko
 
+
+ARSIP KELAS BELAJAR TELEGRAM :
+
 https://github.com/hajirodeon/freekelasphonegapcordova
+
+https://github.com/hajirodeon/freekelasgithub
+
+
 
 https://github.com/hajirodeon/cekresi
 
