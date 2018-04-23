@@ -59,6 +59,29 @@ https://github.com/hajirodeon/latihanjquery
 ---
 
 
+
+APLIKASI ANTRIAN :
+
+untuk menampilkan display dan panggilan di hp android.
+
+https://github.com/hajirodeon/antrian-display
+
+
+script web php untuk dipasang di webserver
+
+https://github.com/hajirodeon/antrian-php
+
+
+untuk ambil nomor antrian di hp android, dan printing ke thermal printer yang terhubung secara USB OTG ke hp android 
+
+https://github.com/hajirodeon/antrian
+
+---
+
+
+
+
+
 SISFO-TOKO : 
 
 https://github.com/hajirodeon/sisfotoko
