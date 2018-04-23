@@ -17,10 +17,6 @@ https://github.com/hajirodeon/idt-free-kelas
 
 SISFOKOL : 
 
-https://github.com/hajirodeon/sisfokol-ppdb
-
-https://github.com/hajirodeon/sisfokol-ujian
-
 https://github.com/hajirodeon/SISFOKOL-SD
 
 https://github.com/hajirodeon/SISFOKOL-SMP
@@ -29,13 +25,17 @@ https://github.com/hajirodeon/SISFOKOL-SMA
 
 https://github.com/hajirodeon/SISFOKOL-SMK
 
+https://github.com/hajirodeon/sisfokol-ppdb
+
+https://github.com/hajirodeon/sisfokol-ujian
+
 https://github.com/hajirodeon/sisfokol-janissary
 
 https://github.com/hajirodeon/ebook-sisfokol
 
-https://github.com/hajirodeon/sisfokol-kampus
-
 https://github.com/hajirodeon/biasawae-jadwal
+
+https://github.com/hajirodeon/sisfokol-kampus
 
 ---
 
