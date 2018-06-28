@@ -105,6 +105,12 @@ https://github.com/hajirodeon/antrian
 
 
 
+KASIR-TOKO : 
+
+https://github.com/hajirodeon/kasir-toko
+
+---
+
 
 
 SISFO-TOKO : 
