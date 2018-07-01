@@ -114,6 +114,15 @@ https://github.com/hajirodeon/antrian
 
 
 
+BOOKING-PASIEN-PERIKSA :
+
+https://github.com/hajirodeon/booking-pasien
+
+---
+
+
+
+
 KASIR-TOKO : 
 
 https://github.com/hajirodeon/kasir-toko
