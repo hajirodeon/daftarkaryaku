@@ -64,6 +64,8 @@ LinuxBIASAWAE
 
 https://github.com/hajirodeon/LinuxBIASAWAE
 
+ftp://ftp.itb.ac.id/pub/ISO-IMAGES/linux/linux_biasawae/
+
 
 
 
