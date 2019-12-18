@@ -1,77 +1,6 @@
 # daftarkaryaku
-daftarkaryaku
 
 
-
-
-CMS-TOKO-BIASAWAE. untuk membuat website toko online
-
-https://github.com/hajirodeon/cms-toko-biasawae
-
-
-
----
-
-
-LES PRIVATE WAPPSANDROID :
-
-https://github.com/hajirodeon/les-private-telegram-wappsandroid
-
-
-
-LES PRIVATE PEMROGRAMAN WEB JQUERY ADMINLTE PHP MYSQL
-
-https://github.com/hajirodeon/kelas-belajar-jquery-adminlte
-
-
----
-
-
-
-ARSIP KELAS BELAJAR TELEGRAM :
-
-https://github.com/hajirodeon/freekelasphonegapcordova
-
-https://github.com/hajirodeon/freekelasgithub
-
-https://github.com/hajirodeon/idt-free-kelas
-
-
----
-
-KARYA DI GOOGLE PLAYSTORE : 
-
-https://play.google.com/store/apps/details?id=masakanbiasawae.masakanbiasawae.masakanbiasawae
-
-https://play.google.com/store/apps/details?id=ppln.Khartoum.Khartoum
-
-https://play.google.com/store/apps/details?id=gambartekniknih.gambartekniknih.gambartekniknih
-
-https://play.google.com/store/apps/details?id=simantab.simantab.simantab
-
-https://play.google.com/store/apps/details?id=ppln.abu.dhabi
-
-https://play.google.com/store/apps/details?id=walanja.walanja.walanja
-
-https://play.google.com/store/apps/details?id=ongkir.ongkir.ongkir
-
-https://play.google.com/store/apps/details?id=dadang.dadang.dadang
-
-
-
----
-
-
-LinuxBIASAWAE
-
-https://github.com/hajirodeon/LinuxBIASAWAE
-
-ftp://ftp.itb.ac.id/pub/ISO-IMAGES/linux/linux_biasawae/
-
-
-
-
----
 
 
 
@@ -165,6 +94,81 @@ https://github.com/hajirodeon/SISFOKOL_SMK_v1.0
 
 
 
+
+
+
+
+
+
+
+CMS-TOKO-BIASAWAE. untuk membuat website toko online
+
+https://github.com/hajirodeon/cms-toko-biasawae
+
+
+
+---
+
+
+LES PRIVATE WAPPSANDROID :
+
+https://github.com/hajirodeon/les-private-telegram-wappsandroid
+
+
+
+LES PRIVATE PEMROGRAMAN WEB JQUERY ADMINLTE PHP MYSQL
+
+https://github.com/hajirodeon/kelas-belajar-jquery-adminlte
+
+
+---
+
+
+
+ARSIP KELAS BELAJAR TELEGRAM :
+
+https://github.com/hajirodeon/freekelasphonegapcordova
+
+https://github.com/hajirodeon/freekelasgithub
+
+https://github.com/hajirodeon/idt-free-kelas
+
+
+---
+
+KARYA DI GOOGLE PLAYSTORE : 
+
+https://play.google.com/store/apps/details?id=masakanbiasawae.masakanbiasawae.masakanbiasawae
+
+https://play.google.com/store/apps/details?id=ppln.Khartoum.Khartoum
+
+https://play.google.com/store/apps/details?id=gambartekniknih.gambartekniknih.gambartekniknih
+
+https://play.google.com/store/apps/details?id=simantab.simantab.simantab
+
+https://play.google.com/store/apps/details?id=ppln.abu.dhabi
+
+https://play.google.com/store/apps/details?id=walanja.walanja.walanja
+
+https://play.google.com/store/apps/details?id=ongkir.ongkir.ongkir
+
+https://play.google.com/store/apps/details?id=dadang.dadang.dadang
+
+
+
+---
+
+
+LinuxBIASAWAE
+
+https://github.com/hajirodeon/LinuxBIASAWAE
+
+ftp://ftp.itb.ac.id/pub/ISO-IMAGES/linux/linux_biasawae/
+
+
+
+
+---
 
 
 ---
