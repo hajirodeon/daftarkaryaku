@@ -2,6 +2,8 @@
 daftarkaryaku
 
 
+
+
 CMS-TOKO-BIASAWAE. untuk membuat website toko online
 
 https://github.com/hajirodeon/cms-toko-biasawae
@@ -72,27 +74,63 @@ ftp://ftp.itb.ac.id/pub/ISO-IMAGES/linux/linux_biasawae/
 ---
 
 
-SISFOKOL : 
 
-https://github.com/hajirodeon/SISFOKOL-SD
 
-https://github.com/hajirodeon/SISFOKOL-SMP
+SISFOKOL PRESENSI QRCODE : 
 
-https://github.com/hajirodeon/SISFOKOL-SMA
+https://github.com/hajirodeon/sisfokol_presensiqrcode
 
-https://github.com/hajirodeon/SISFOKOL-SMK
+https://github.com/hajirodeon/sisfokol_android_presensiqrcode
 
-https://github.com/hajirodeon/sisfokol-ppdb
+
+
+SISFOKOL UJIAN : 
 
 https://github.com/hajirodeon/sisfokol-ujian
 
+
+
+SISFOKOL E-Learning : 
+
 https://github.com/hajirodeon/sisfokol-janissary
 
-https://github.com/hajirodeon/ebook-sisfokol
+
+
+SISFOKOL Kampus/Universitas : 
+
+https://github.com/hajirodeon/sisfokol-kampus
+
+
+
+SISFOKOL untuk pembuatan jadwal pelajaran : 
 
 https://github.com/hajirodeon/biasawae-jadwal
 
-https://github.com/hajirodeon/sisfokol-kampus
+
+
+SISFOKOL PPDB :
+
+https://github.com/hajirodeon/sisfokol-ppdb
+
+
+
+EBOOK SISFOKOL TERPADU :
+
+https://github.com/hajirodeon/ebook-sisfokol
+
+
+
+
+SISFOKOL TERPADU : 
+
+v5 -> https://github.com/hajirodeon/SISFOKOL-SD
+
+v5 -> https://github.com/hajirodeon/SISFOKOL-SMP
+
+v5 -> https://github.com/hajirodeon/SISFOKOL-SMA
+
+v5 -> https://github.com/hajirodeon/SISFOKOL-SMK
+
 
 https://github.com/hajirodeon/sisfokol_v4_sd
 
