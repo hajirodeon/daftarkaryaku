@@ -1,53 +1,13 @@
 # daftarkaryaku
 
 
-
-
-
-
 SISFOKOL PRESENSI QRCODE : 
 
 https://github.com/hajirodeon/sisfokol_presensiqrcode
 
 https://github.com/hajirodeon/sisfokol_android_presensiqrcode
 
-
-
-SISFOKOL UJIAN : 
-
-https://github.com/hajirodeon/sisfokol-ujian
-
-
-
-SISFOKOL E-Learning : 
-
-https://github.com/hajirodeon/sisfokol-janissary
-
-
-
-SISFOKOL Kampus/Universitas : 
-
-https://github.com/hajirodeon/sisfokol-kampus
-
-
-
-SISFOKOL untuk pembuatan jadwal pelajaran : 
-
-https://github.com/hajirodeon/biasawae-jadwal
-
-
-
-SISFOKOL PPDB :
-
-https://github.com/hajirodeon/sisfokol-ppdb
-
-
-
-EBOOK SISFOKOL TERPADU :
-
-https://github.com/hajirodeon/ebook-sisfokol
-
-
+---
 
 
 SISFOKOL TERPADU : 
@@ -92,11 +52,54 @@ https://github.com/hajirodeon/SISFOKOL_SLTP_v1.0
 https://github.com/hajirodeon/SISFOKOL_SMK_v1.0
 
 
+---
+
+
+SISFOKOL UJIAN : 
+
+https://github.com/hajirodeon/sisfokol-ujian
+
+
+---
+
+SISFOKOL E-Learning : 
+
+https://github.com/hajirodeon/sisfokol-janissary
+
+
+---
+
+SISFOKOL Kampus/Universitas : 
+
+https://github.com/hajirodeon/sisfokol-kampus
+
+
+---
+
+SISFOKOL untuk pembuatan jadwal pelajaran : 
+
+https://github.com/hajirodeon/biasawae-jadwal
+
+
+---
+
+SISFOKOL PPDB :
+
+https://github.com/hajirodeon/sisfokol-ppdb
+
+
+---
+
+EBOOK SISFOKOL TERPADU :
+
+https://github.com/hajirodeon/ebook-sisfokol
 
 
 
 
 
+
+---
 
 
 
