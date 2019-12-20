@@ -10,6 +10,16 @@ https://github.com/hajirodeon/sisfokol_android_presensiqrcode
 ---
 
 
+
+SISFOKOL PRESENSI GPS :
+
+https://github.com/hajirodeon/sisfokol_presensigps
+
+https://github.com/hajirodeon/sisfokol_android_presensigps
+
+---
+
+
 SISFOKOL TERPADU : 
 
 v5 -> https://github.com/hajirodeon/SISFOKOL-SD
