@@ -330,17 +330,11 @@ Kontak :
 
 http://facebook.com/hajirodeon
 
-http://twitter.com/hajirodeon
-
 http://instagram.com/hajirodeon
 
 http://github.com/hajirodeon
 
 http://hajirodeon.wordpress.com
-
-http://tekniknih.com
-
-http://simudah.com
 
 
 
