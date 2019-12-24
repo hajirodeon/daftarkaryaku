@@ -32,6 +32,18 @@ https://github.com/hajirodeon/sisfokol_cbt
 
 
 
+
+SISFOKOL WEB COMPANY PROFILE SEKOLAH :
+
+https://github.com/hajirodeon/sisfokol_cp
+
+---
+
+
+
+
+
+
 SISFOKOL TERPADU : 
 
 v5 -> https://github.com/hajirodeon/SISFOKOL-SD
