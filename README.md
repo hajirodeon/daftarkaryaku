@@ -11,6 +11,9 @@ https://github.com/hajirodeon/sisfokol_android_presensiqrcode
 
 
 
+
+
+
 SISFOKOL PRESENSI GPS :
 
 https://github.com/hajirodeon/sisfokol_presensigps
@@ -18,6 +21,18 @@ https://github.com/hajirodeon/sisfokol_presensigps
 https://github.com/hajirodeon/sisfokol_android_presensigps
 
 ---
+
+
+
+
+
+
+SISFOKOL PPDB :
+
+https://github.com/hajirodeon/sisfokol_ppdb2
+
+---
+
 
 
 
