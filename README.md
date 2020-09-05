@@ -5,6 +5,8 @@ SISFOKOL PRESENSI QRCODE :
 
 https://github.com/hajirodeon/sisfokol_presensiqrcode
 
+https://github.com/hajirodeon/sisfokol_presensiqrcode_2
+
 https://github.com/hajirodeon/sisfokol_android_presensiqrcode
 
 ---
