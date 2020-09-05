@@ -18,6 +18,8 @@ SISFOKOL PRESENSI GPS :
 
 https://github.com/hajirodeon/sisfokol_presensigps
 
+https://github.com/hajirodeon/sisfokol_presensigps_2
+
 https://github.com/hajirodeon/sisfokol_android_presensigps
 
 ---
