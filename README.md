@@ -35,6 +35,9 @@ SISFOKOL PPDB :
 
 https://github.com/hajirodeon/sisfokol_ppdb2
 
+
+https://github.com/hajirodeon/sisfokol-ppdb
+
 ---
 
 
@@ -141,11 +144,6 @@ SISFOKOL untuk pembuatan jadwal pelajaran :
 https://github.com/hajirodeon/biasawae-jadwal
 
 
----
-
-SISFOKOL PPDB :
-
-https://github.com/hajirodeon/sisfokol-ppdb
 
 
 ---
@@ -195,28 +193,6 @@ https://github.com/hajirodeon/freekelasphonegapcordova
 https://github.com/hajirodeon/freekelasgithub
 
 https://github.com/hajirodeon/idt-free-kelas
-
-
----
-
-KARYA DI GOOGLE PLAYSTORE : 
-
-https://play.google.com/store/apps/details?id=masakanbiasawae.masakanbiasawae.masakanbiasawae
-
-https://play.google.com/store/apps/details?id=ppln.Khartoum.Khartoum
-
-https://play.google.com/store/apps/details?id=gambartekniknih.gambartekniknih.gambartekniknih
-
-https://play.google.com/store/apps/details?id=simantab.simantab.simantab
-
-https://play.google.com/store/apps/details?id=ppln.abu.dhabi
-
-https://play.google.com/store/apps/details?id=walanja.walanja.walanja
-
-https://play.google.com/store/apps/details?id=ongkir.ongkir.ongkir
-
-https://play.google.com/store/apps/details?id=dadang.dadang.dadang
-
 
 
 ---
@@ -326,13 +302,6 @@ https://github.com/hajirodeon/sisfosurat
 
 
 
-FREE-PDF-MEGAZINE-BIASAWAE-MINGGUAN :
-
-https://github.com/hajirodeon/majalahbiasawae
-
----
-
-
 AL-QUR'AN WEB BASED : 
 
 https://github.com/hajirodeon/biasawae-quran
@@ -365,6 +334,9 @@ https://github.com/hajirodeon/biasawae-meme
 SISFO UNTUK AMBIL DAFTAR PRODUK TOKOPEDIA/BUKALAPAK/SHOPEE
 
 https://github.com/hajirodeon/biasawae-ambil-produk
+
+
+
 
 ---
 
