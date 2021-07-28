@@ -1,6 +1,15 @@
 # daftarkaryaku
 
-Taman Budaya BIASAWAE : Web Informasi Taman Budaya untuk Kesenian, company profile, akses user seniman, akses user penyewa tempat. 
+SISFO-PELPROKESVID19 v1.0 : Sistem Informasi Pendataan Pelanggar ProKes Covid-19. 
+
+https://github.com/hajirodeon/sisfo-pelprokesvid19
+
+---
+
+
+
+
+Taman Budaya BIASAWAE v1.0 : Web Informasi Taman Budaya untuk Kesenian, company profile, akses user seniman, akses user penyewa tempat. 
 
 https://github.com/hajirodeon/taman-budaya-biasawae
 
@@ -8,7 +17,7 @@ https://github.com/hajirodeon/taman-budaya-biasawae
 
 
 
-Web Info Objek Wisata dan Booking Tiket Masuk :
+Wisata BIASAWAE v1.0 : Web Info Objek Wisata dan Booking Tiket Masuk.
 
 https://github.com/hajirodeon/wisata-biasawae
 
@@ -18,7 +27,7 @@ https://github.com/hajirodeon/wisata-biasawae
 
 
 
-SISFO-SPPD / Sistem Informasi Surat Perintah Perjalanan Dinas : 
+SISFO-SPPD v1.0 : Sistem Informasi Surat Perintah Perjalanan Dinas.
 
 https://github.com/hajirodeon/SISFO-SPPD
 
