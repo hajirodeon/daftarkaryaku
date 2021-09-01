@@ -1,5 +1,23 @@
 # daftarkaryaku
 
+
+
+SISFOKOL khusus untuk kalangan internal yayasan, agar bisa memantau sekolah - sekolah yang dimiliki.
+
+https://github.com/hajirodeon/sisfokol_yayasan
+
+---
+
+
+
+sisfokol_ebook_qrcode, sistem perpustakaan ebook pdf sederhana, dengan metode login peminjam dengan qrcode scan.
+
+https://github.com/hajirodeon/sisfokol_ebook_qrcode
+
+---
+
+
+
 SISFO-PELPROKESVID19 v1.0 : Sistem Informasi Pendataan Pelanggar ProKes Covid-19. 
 
 https://github.com/hajirodeon/sisfo-pelprokesvid19
