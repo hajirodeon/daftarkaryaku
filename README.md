@@ -1,5 +1,11 @@
 # daftarkaryaku
 
+SISFOKOL-PPDB-MINAT-BAKAT, sistem penerimaan peserta didik baru dengan metode tes minat bakat, dalam penentuan jurusan/keahliannya.
+
+https://github.com/hajirodeon/SISFOKOL-PPDB-MINAT-BAKAT
+
+
+
 
 
 SISFOKOL khusus untuk kalangan internal yayasan, agar bisa memantau sekolah - sekolah yang dimiliki.
