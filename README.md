@@ -1,6 +1,15 @@
 # daftarkaryaku
 
 
+Channel Youtube :
+
+https://www.youtube.com/@hajirodeon
+
+---
+
+
+
+
 SISFOKOL v6.78 (Code: Tekniknih). Sistem Informasi Sekolah.
 
 https://github.com/hajirodeon/SISFOKOL_v6.78
