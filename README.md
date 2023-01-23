@@ -1,5 +1,6 @@
 # daftarkaryaku
 
+
 SISFOKOL v6.78 (Code: Tekniknih). Sistem Informasi Sekolah.
 
 https://github.com/hajirodeon/SISFOKOL_v6.78
@@ -12,6 +13,7 @@ https://github.com/hajirodeon/SISFOKOL_v6_SMP
 
 https://github.com/hajirodeon/SISFOKOL_v6_SD
 
+---
 
 
 
