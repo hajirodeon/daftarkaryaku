@@ -1,5 +1,19 @@
 # daftarkaryaku
 
+SISFOKOL v6.78 (Code: Tekniknih). Sistem Informasi Sekolah.
+
+https://github.com/hajirodeon/SISFOKOL_v6.78
+
+https://github.com/hajirodeon/SISFOKOL_v6_SMK
+
+https://github.com/hajirodeon/SISFOKOL_v6_SMA
+
+https://github.com/hajirodeon/SISFOKOL_v6_SMP
+
+https://github.com/hajirodeon/SISFOKOL_v6_SD
+
+
+
 
 SISFO-PENAGIHAN v1.0 , Sistem Informasi Basis Web untuk Penagihan Client atas suatu langganan produk yang bersifat rutin bulanan.
 
