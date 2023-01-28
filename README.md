@@ -7,6 +7,36 @@ https://www.youtube.com/@hajirodeon
 
 ---
 
+Video Youtube Shorts Cuplikan Tampilan Web Aplikasi :
+
+https://www.youtube.com/shorts/oWkWqFrvCPw
+
+https://www.youtube.com/shorts/fPfaas1tzvs
+
+https://www.youtube.com/shorts/Gjm7KQKHvmQ
+
+https://www.youtube.com/shorts/E5gcRyIDr_c
+
+https://www.youtube.com/shorts/q7xm-F-FpXQ
+
+https://www.youtube.com/shorts/NSUt8ZI12gw
+
+https://www.youtube.com/shorts/9j_8DXZG2hc
+
+https://www.youtube.com/shorts/eHvC3bU6Jx4
+
+https://www.youtube.com/shorts/e_-MLIlzNv0
+
+https://www.youtube.com/shorts/aEDgTxQgd0g
+
+https://www.youtube.com/shorts/Hw4qx_n7Eqw
+
+https://www.youtube.com/shorts/kQ_qht_uIis
+
+---
+
+
+
 
 
 
