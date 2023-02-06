@@ -39,7 +39,6 @@ https://www.youtube.com/shorts/kQ_qht_uIis
 
 
 
-
 SISFOKOL v6.78 (Code: Tekniknih). Sistem Informasi Sekolah.
 
 https://github.com/hajirodeon/SISFOKOL_v6.78
@@ -56,11 +55,28 @@ https://github.com/hajirodeon/SISFOKOL_v6_SD
 
 
 
+
+
+
+SISFO-SEWA-LAPANGAN-FUTSAL v1.0 cocok untuk digunakan pada Lapangan Futsal yang menggunakan web mobile dan server sendiri, dalam pengelolaan Sewa Lapangan Futsal.
+
+https://github.com/hajirodeon/sisfo-sewa-lapangan-futsal
+
+---
+
+
+
+
+
+
+
 SISFO-Keuangan-Siswa
 
 https://github.com/hajirodeon/Keuangan-Siswa
 
 ---
+
+
 
 
 
