@@ -56,6 +56,15 @@ https://github.com/hajirodeon/SISFOKOL_v6_SD
 
 
 
+SISFO-Keuangan-Siswa
+
+https://github.com/hajirodeon/Keuangan-Siswa
+
+---
+
+
+
+
 SISFO-PENAGIHAN v1.0 , Sistem Informasi Basis Web untuk Penagihan Client atas suatu langganan produk yang bersifat rutin bulanan.
 
 https://github.com/hajirodeon/sisfo-penagihan
