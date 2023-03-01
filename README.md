@@ -42,7 +42,7 @@ https://www.youtube.com/shorts/_qJJicvaMfA
 
 
 
-SISFOKOL v6.78 (Code: Tekniknih). Sistem Informasi Sekolah. (Target Rilis Akhir Pebruari 2023).
+SISFOKOL v6.78 (Code: Tekniknih). Sistem Informasi Sekolah. (Menuju Rilis : Tengah Maret 2023 ini.).
 
 https://github.com/hajirodeon/SISFOKOL_v6.78
 
