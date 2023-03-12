@@ -39,6 +39,15 @@ https://www.youtube.com/shorts/_qJJicvaMfA
 ---
 
 
+Koperasi-Sekolah, untuk layanan simpan pinjam di sekolah
+
+https://github.com/hajirodeon/Koperasi-Sekolah
+
+
+
+---
+
+
 
 Kantin-Sekolah, untuk kasir kantin sekolah dan booking pesanan makanan/minuman/jajan .
 
