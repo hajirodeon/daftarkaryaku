@@ -40,6 +40,12 @@ https://www.youtube.com/shorts/_qJJicvaMfA
 
 
 
+Kantin-Sekolah, untuk kasir kantin sekolah dan booking pesanan makanan/minuman/jajan .
+
+https://github.com/hajirodeon/Kantin-Sekolah
+
+---
+
 
 
 SISFOKOL v6.78 (Code: Tekniknih). Sistem Informasi Sekolah. (Menuju Rilis : Tengah Maret 2023 ini.).
