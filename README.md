@@ -38,6 +38,14 @@ https://www.youtube.com/shorts/_qJJicvaMfA
 
 ---
 
+SISFO-KEULAZIS, Web Aplikasi / SISFO untuk Kelola Keuangan Lembaga Lazis.
+
+https://github.com/hajirodeon/SISFO-KEULAZIS
+
+
+
+
+---
 
 Koperasi-Sekolah, untuk layanan simpan pinjam di sekolah
 
