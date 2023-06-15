@@ -65,7 +65,7 @@ https://github.com/hajirodeon/Kantin-Sekolah
 
 
 
-SISFOKOL v6.78 (Code: Tekniknih). Sistem Informasi Sekolah. (Menuju Rilis : Menjelang Lebaran 2023 ini.).
+SISFOKOL v6.78 (Code: Tekniknih). Sistem Informasi Sekolah. 
 
 https://github.com/hajirodeon/SISFOKOL_v6.78
 
