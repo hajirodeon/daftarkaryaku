@@ -38,6 +38,15 @@ https://www.youtube.com/shorts/_qJJicvaMfA
 
 ---
 
+
+
+SISFO TataLaksana-Binter, untuk kebutuhan entri data laporan oleh BABINSA pada lingkungan KODIM TNI untuk suatu Kota.
+
+https://github.com/hajirodeon/KODIM-TataLaksanaBinter
+
+---
+
+
 SISFO-KEULAZIS, Web Aplikasi / SISFO untuk Kelola Keuangan Lembaga Lazis.
 
 https://github.com/hajirodeon/SISFO-KEULAZIS
