@@ -50,9 +50,9 @@ https://github.com/hajirodeon/SISFOKOL_v7.00-code-SmartOffice-
 ---
 
 
-SISFO-SPPD 2026
+SISFO-SPPD 2026, Sistem Informasi Surat Perintah Perjalanan Dinas. Cocok untuk kantor - kantor yang membutuhkan pengarsipan surat perintah tugas perjalanan dinas.
 
-Sistem Informasi Surat Perintah Perjalanan Dinas. Cocok untuk kantor - kantor yang membutuhkan pengarsipan surat perintah tugas perjalanan dinas.
+https://github.com/hajirodeon/SISFO-SPPD-2026
 
 ---
 
