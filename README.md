@@ -43,6 +43,19 @@ https://www.youtube.com/shorts/_qJJicvaMfA
 
 ---
 
+SISFOKOL v7.00 (Code:SmartOffice), cocok untuk digunakan pada Lingkungan Sekolah. Terutama Sekolah - Sekolah yang menerapkan konsep Smart Office, yang saling terhubung antar bagian dalam Kantornya.
+
+https://github.com/hajirodeon/SISFOKOL_v7.00-code-SmartOffice-
+
+---
+
+
+SISFO-SPPD 2026
+
+Sistem Informasi Surat Perintah Perjalanan Dinas. Cocok untuk kantor - kantor yang membutuhkan pengarsipan surat perintah tugas perjalanan dinas.
+
+---
+
 
 
 SISFO TataLaksana-Binter, untuk kebutuhan entri data laporan oleh BABINSA pada lingkungan KODIM TNI untuk suatu Kota.
