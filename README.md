@@ -14,7 +14,10 @@ https://www.youtube.com/@hajirodeon
 
 Video Youtube Shorts Cuplikan Tampilan Web Aplikasi :
 
-https://www.youtube.com/shorts/oWkWqFrvCPw
+  https://www.youtube.com/shorts/oWkWqFrvCPw
+  Web Aplikasi Keuangan Siswa. SISFOKOL. Cocok untuk sekolah. 
+
+
 
 https://www.youtube.com/shorts/fPfaas1tzvs
 
