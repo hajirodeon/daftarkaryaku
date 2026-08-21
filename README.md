@@ -14,20 +14,42 @@ https://www.youtube.com/@hajirodeon
 
 Video Youtube Shorts Cuplikan Tampilan Web Aplikasi :
 
-  https://www.youtube.com/shorts/oWkWqFrvCPw
-  Web Aplikasi Keuangan Siswa. SISFOKOL. Cocok untuk sekolah. 
+https://www.youtube.com/shorts/oWkWqFrvCPw
+
+Web Aplikasi Keuangan Siswa. SISFOKOL. Cocok untuk sekolah. 
 
 
 
 https://www.youtube.com/shorts/fPfaas1tzvs
 
+SISFO Pendataan Pelanggar Prokes Covid-19
+
+
+
 https://www.youtube.com/shorts/Gjm7KQKHvmQ
+
+SISFO Web Taman Budaya.
+
+
 
 https://www.youtube.com/shorts/E5gcRyIDr_c
 
+SISFO web PPDB MINAT DAN BAKAT. 
+
+
+
 https://www.youtube.com/shorts/q7xm-F-FpXQ
 
+SISFO Web Informasi Wisata dan Booking Objek Wisata
+
+
+
+
 https://www.youtube.com/shorts/NSUt8ZI12gw
+
+SISFO CMS Toko Online
+
+
 
 https://www.youtube.com/shorts/9j_8DXZG2hc
 
