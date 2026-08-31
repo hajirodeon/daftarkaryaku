@@ -94,6 +94,13 @@ Web Aplikasi. SISFO SEWA LAPANGAN FUTSAL.
 
 ---
 
+Berisi beragam tema gambar storyboard, lengkap dengan sinopsis dan rincian detail storyboard-nya. Cocok untuk membuat : komik dan video konten kreator.
+
+https://github.com/hajirodeon/open-storyboard
+
+---
+
+
 SISFOKOL v7.00 (Code:SmartOffice), cocok untuk digunakan pada Lingkungan Sekolah. Terutama Sekolah - Sekolah yang menerapkan konsep Smart Office, yang saling terhubung antar bagian dalam Kantornya.
 
 https://github.com/hajirodeon/SISFOKOL_v7.00-code-SmartOffice-
